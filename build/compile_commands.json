@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/tki256/myProject/opencv-class/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4 -g -o CMakeFiles/main.dir/main.cpp.o -c /home/tki256/myProject/opencv-class/main.cpp",
+  "file": "/home/tki256/myProject/opencv-class/main.cpp"
+}
+]
