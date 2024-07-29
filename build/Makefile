@@ -129,29 +129,29 @@ main/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
 .PHONY : main/fast
 
-main.o: main.cpp.o
-.PHONY : main.o
+bird_eye_view_pointSelection.o: bird_eye_view_pointSelection.cpp.o
+.PHONY : bird_eye_view_pointSelection.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/main.cpp.o
-.PHONY : main.cpp.o
+bird_eye_view_pointSelection.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/bird_eye_view_pointSelection.cpp.o
+.PHONY : bird_eye_view_pointSelection.cpp.o
 
-main.i: main.cpp.i
-.PHONY : main.i
+bird_eye_view_pointSelection.i: bird_eye_view_pointSelection.cpp.i
+.PHONY : bird_eye_view_pointSelection.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/main.cpp.i
-.PHONY : main.cpp.i
+bird_eye_view_pointSelection.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/bird_eye_view_pointSelection.cpp.i
+.PHONY : bird_eye_view_pointSelection.cpp.i
 
-main.s: main.cpp.s
-.PHONY : main.s
+bird_eye_view_pointSelection.s: bird_eye_view_pointSelection.cpp.s
+.PHONY : bird_eye_view_pointSelection.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/main.cpp.s
-.PHONY : main.cpp.s
+bird_eye_view_pointSelection.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/bird_eye_view_pointSelection.cpp.s
+.PHONY : bird_eye_view_pointSelection.cpp.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... main"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... bird_eye_view_pointSelection.o"
+	@echo "... bird_eye_view_pointSelection.i"
+	@echo "... bird_eye_view_pointSelection.s"
 .PHONY : help
 
 

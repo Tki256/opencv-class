@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.8.3)
 project(step1)
-set(SOURCE_FILE main.cpp)
+set(SOURCE_FILE bird_eye_view_pointSelection.cpp)
 
 # OpenCVのビルド環境の設定ファイルを読み込む
 find_package(OpenCV REQUIRED)

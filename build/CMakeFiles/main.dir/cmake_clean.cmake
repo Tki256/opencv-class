@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/main.dir/main.cpp.o"
-  "CMakeFiles/main.dir/main.cpp.o.d"
+  "CMakeFiles/main.dir/bird_eye_view_pointSelection.cpp.o"
+  "CMakeFiles/main.dir/bird_eye_view_pointSelection.cpp.o.d"
   "main"
   "main.pdb"
 )

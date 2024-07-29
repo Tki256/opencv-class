@@ -1,0 +1,3 @@
+/home/tki256/myProject/opencv-class/code-cpp/CMakeFiles/main.dir
+/home/tki256/myProject/opencv-class/code-cpp/CMakeFiles/edit_cache.dir
+/home/tki256/myProject/opencv-class/code-cpp/CMakeFiles/rebuild_cache.dir
